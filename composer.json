@@ -1,6 +1,6 @@
 {
-    "name": "joedixon/laravel-translation",
-    "description": "This is a fork of a joey dixon laravel translation. A tool for managing all of your Laravel translations",
+    "name": "solvy/laravel-translation",
+    "description": "This is a fork of a Joe Dixon laravel translation. Temporary solution for Laravel 11 update. A tool for managing all of your Laravel translations",
     "type": "library",
     "require": {
         "php": "^8.0",
